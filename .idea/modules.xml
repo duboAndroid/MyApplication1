@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyApplication1.iml" filepath="$PROJECT_DIR$/MyApplication1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SMSContentObservers/SMSContentObservers.iml" filepath="$PROJECT_DIR$/SMSContentObservers/SMSContentObservers.iml" />
       <module fileurl="file://$PROJECT_DIR$/SMSreceive/SMSreceive.iml" filepath="$PROJECT_DIR$/SMSreceive/SMSreceive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sms/sms.iml" filepath="$PROJECT_DIR$/sms/sms.iml" />
     </modules>
   </component>
 </project>

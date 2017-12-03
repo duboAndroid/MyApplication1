@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Bob\\Desktop\\MyApplication\\SMSreceive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Bob\\Desktop\\MyApplication\\SMSreceive\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Bob\\Desktop\\MyApplication1\\SMSreceive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\Bob\\Desktop\\MyApplication1\\SMSreceive\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     }

@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
 
 public class SmsContent extends ContentObserver {
 
-		public static final String SMS_URI_INBOX = "content://sms/inbox";
+		public final String SMS_URI_INBOX = "content://sms/inbox";
 
 		private Activity activity = null;
 
